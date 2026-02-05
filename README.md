@@ -12,13 +12,15 @@ Al explorar las dinámicas del mercado en regiones como Norteamérica, Europa y 
 - ¿Qué tendencias se observan en el mercado en los años más recientes conforme a los datos analizados?
 
 # Herramientas utilizadas 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%23357ebd.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
-![Análisis exploratorio de datos (EDA)](https://img.shields.io/badge/Análisis_exploratorio_de_datos_(EDA)-295F98?style=for-the-badge)
-![Pruebas de hipótesis](https://img.shields.io/badge/Pruebas_de_hipótesis-295F98?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-357ebd?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Orange?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![EDA](https://img.shields.io/badge/Análisis_Exploratorio_de_Datos-295F98?style=for-the-badge)
+![Visualización](https://img.shields.io/badge/Visualización_de_Datos-295F98?style=for-the-badge)
+![Hipótesis](https://img.shields.io/badge/Pruebas_de_Hipótesis-295F98?style=for-the-badge)

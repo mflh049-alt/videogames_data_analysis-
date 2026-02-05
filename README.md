@@ -28,7 +28,7 @@ Al explorar las dinámicas del mercado en regiones como Norteamérica, Europa y 
 ## Proceso de análisis 
 1. **Limpieza y preparación de datos**
 2. **Análisis exploratorio** de variables clave: identificación de genéros y plataformas líderes en ventas, evlacución de la correlación entre las reseñas y el desempeño de las ventas
-3. **Análisis por región**: Identificación de géneros y platafromas líderes en Norteamérica, Europa y Japón.
+3. **Análisis por región**: Identificación de géneros y plataformas líderes en Norteamérica, Europa y Japón.
 4. **Análisis estadístico** para contrastar hipótesis: comparar calificaciones promedio de usuarios por plataformas y género. 
 
 ## Principales Hallazgos 

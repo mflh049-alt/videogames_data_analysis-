@@ -58,10 +58,10 @@ Las siguientes variables conforman el dataset utilizado en el análisis:
 - `Platform` — Plataforma de lanzamiento (por ejemplo; *Wii, NES, GB*).
 - `Year_of_Release` — Año de lanzamiento.
 - `Genre` — Género del videojuego (por ejemplo, *Sports, Platform, Racing*).
-- `NA_sales` — Ventas registradas en América del Norte, expresadas en millones de unidades.
-- `EU_sales` — Ventas registradas  en Europa, expresadas en millones de unidades.
-- `JP_sales` — Ventas regitradas en Japón, expresadas en millones de unidades.
-- `Other_sales` — Ventas registradas otras regiones, expresadas en millones de unidades.
+- `NA_sales` — Ventas registradas en América del Norte, expresadas en millones de dólares.
+- `EU_sales` — Ventas registradas  en Europa, expresadas en millones de dólares.
+- `JP_sales` — Ventas regitradas en Japón, expresadas en millones de dólares.
+- `Other_sales` — Ventas registradas otras regiones, expresadas en millones de dólares.
 - `Critic_Score` — Calificación promedio asignada por críticos especializados, medida en una escala de 0 a 100 puntos.
 - `User_Score` — Calificación promedio otorgada por usuarios, usualmente expresada en una escala de 0 a 10; en algunos casos puede contener valores no numéricos (por ejemplo, tbd).
 

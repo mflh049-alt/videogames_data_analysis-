@@ -40,7 +40,7 @@ A nivel global, los géneros más rentables son Deportes y Acción. Sin embargo,
 
 ### Pruebas de hipótesis
 - Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son iguales.
-- Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.
+- Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son iguales.
 
 *Los resultados completos se detallan en el notebook del proyecto* 
 
